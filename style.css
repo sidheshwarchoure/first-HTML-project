@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+form {
+    width: 500px;
+    color: white;
+    font-family: 'Roboto',sans-serif;
+}
+
+h1 {
+    color: white;
+    font-family: 'Robota',sans-serif;
+    padding-left: 150px;
+   font-weight: 200;
+   margin-top: 100px;
+}
+
+form input {
+    bottom: auto;
+    background-color: black;
+    color: white;
+}
+
+form label {
+    display: inline;
+    font-weight: lighter;
+}
+
+.btn {
+    background-color: white;
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+    border-color:none;
+    
+}
+
+
+
